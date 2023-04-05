@@ -23,3 +23,20 @@ do
   fi
   i=`expr $i + 1`
 done
+
+
+
+
+output:
+enter the range
+20
+ Prime number between 1 to 20 is:
+1
+2
+3
+5
+7
+11
+13
+17
+19
