@@ -28,3 +28,16 @@ echo "character count: $char_count"
 
 rm "$tempfile"
 
+
+
+
+output:
+Enter the file path: /home/mca/anjus.txt                                                             
+result:
+.........
+welcome
+home
+hello
+line count: 3
+word count: 3
+character count: 19
