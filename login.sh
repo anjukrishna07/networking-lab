@@ -10,3 +10,18 @@ then
 else
   echo -e "Invalid Password\n"
 fi
+
+
+output:
+Enter The Login Name:user
+Enter The Password:
+You're Logged In
+
+
+
+
+or
+
+Enter The Login Name:Aswathy
+Enter The Password:
+Invalid User Name
