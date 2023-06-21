@@ -16,3 +16,8 @@ done
 
 echo "Binary representation: $binary"
 
+
+
+output:
+Enter a decimal number: 10
+Binary representation: 1010
